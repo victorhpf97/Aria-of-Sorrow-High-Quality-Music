@@ -10,6 +10,10 @@ You can replace **one track, several tracks, or the entire soundtrack**.
 
 ---
 
+## 🎬 Video Demo
+
+[![Watch the Aria of Sorrow HQ Music Mod](https://img.youtube.com/vi/Dm6gLcpuvKk/maxresdefault.jpg)](https://youtu.be/Dm6gLcpuvKk)
+
 ## ✨ Features
 
 - 🎶 Replace individual Aria of Sorrow songs with external WAV files
